@@ -22,4 +22,4 @@
 ### Contact me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praise-williams)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_williamspraise)
-[![Power Bi Portfolio](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://www.novypro.com/profile_projects/praise-williams)
+[![Power_BI](https://img.shields.io/badge/Power_BI_portfolio-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://www.novypro.com/profile_projects/praise-williams)
