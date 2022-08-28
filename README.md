@@ -1,9 +1,9 @@
  
 
-### Just a little about me 👋
+### Hi, Thanks for viewing my profile 👋
 
 
-- 🔭 I’m currently working on some Data Analysis Projects 
+- 🔭 I’m currently working on some Data Analysis Projects (Do check here for updates on my commits and pushes) 
 - 🌱 I’m currently learning Data Science on DataCamp
 - 👯 I’m looking to collaborate on well... not yet
 - 🤔 I’m looking for Entry Data Analyst roles
